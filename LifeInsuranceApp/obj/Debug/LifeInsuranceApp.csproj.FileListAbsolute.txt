@@ -1,0 +1,15 @@
+C:\Anish\My_CSharp_App\LifeInsuranceApp\LifeInsuranceApp\bin\Debug\LifeInsuranceApp.exe.config
+C:\Anish\My_CSharp_App\LifeInsuranceApp\LifeInsuranceApp\bin\Debug\LifeInsuranceApp.exe
+C:\Anish\My_CSharp_App\LifeInsuranceApp\LifeInsuranceApp\bin\Debug\LifeInsuranceApp.pdb
+C:\Anish\My_CSharp_App\LifeInsuranceApp\LifeInsuranceApp\obj\Debug\LifeInsuranceApp.csprojResolveAssemblyReference.cache
+C:\Anish\My_CSharp_App\LifeInsuranceApp\LifeInsuranceApp\obj\Debug\LifeInsuranceApp.Properties.Resources.resources
+C:\Anish\My_CSharp_App\LifeInsuranceApp\LifeInsuranceApp\obj\Debug\LifeInsuranceApp.csproj.GenerateResource.Cache
+C:\Anish\My_CSharp_App\LifeInsuranceApp\LifeInsuranceApp\obj\Debug\LifeInsuranceApp.exe
+C:\Anish\My_CSharp_App\LifeInsuranceApp\LifeInsuranceApp\obj\Debug\LifeInsuranceApp.pdb
+C:\Anish\My_CSharp_App\LifeInsuranceApp\LifeInsuranceApp\bin\Debug\InsureAppLibrary.dll
+C:\Anish\My_CSharp_App\LifeInsuranceApp\LifeInsuranceApp\bin\Debug\InsureAppLibrary.pdb
+C:\Anish\My_CSharp_App\LifeInsuranceApp\LifeInsuranceApp\obj\Debug\LifeInsuranceApp.ClientDetails.resources
+C:\Anish\My_CSharp_App\LifeInsuranceApp\LifeInsuranceApp\obj\Debug\LifeInsuranceApp.LoginForm.resources
+C:\Anish\My_CSharp_App\LifeInsuranceApp\LifeInsuranceApp\obj\Debug\LifeInsuranceApp.Home.resources
+C:\Anish\My_CSharp_App\LifeInsuranceApp\LifeInsuranceApp\bin\Debug\EntityFramework.dll
+C:\Anish\My_CSharp_App\LifeInsuranceApp\LifeInsuranceApp\bin\Debug\EntityFramework.xml
